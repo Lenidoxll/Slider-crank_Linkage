@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pause or play">
+        <file alias="pause">pause.png</file>
+        <file alias="play">play.png</file>
+    </qresource>
+</RCC>

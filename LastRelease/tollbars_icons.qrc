@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/actions">
+        <file alias="back">back.png</file>
+        <file alias="new">new.png</file>
+    </qresource>
+</RCC>
